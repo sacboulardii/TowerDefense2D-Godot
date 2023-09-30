@@ -15,3 +15,6 @@ texture = ExtResource("1_56ba8")
 position = Vector2(-2, 0)
 texture = ExtResource("2_f35km")
 offset = Vector2(13, 0)
+
+[node name="Muzzle" type="Marker2D" parent="."]
+position = Vector2(43, 0)
